@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @harshalarya
-- 👀 I’m interested in Programming, Digital Art and UI/UX
-- 🌱 I’m currently learning UI/UX, Character Sketch, Python and C++
-- 💞️ I’m looking to collaborate on Github, UI/UX projects
+- 👀 I’m interested in Programming, UI/UX
+- 🌱 I’m currently pursuing my career at UI/UX, web dev and software engineering.
+- 💞️ I’m looking to collaborate on Github, React and UI/UX projects
 - 📫 You can reach me through ...
+LinkedIn - https://linkedin.com/in/harshalarya/
 Behance - https://www.behance.net/harshalarya
 My Portfolio - https://harshalarya38.wixsite.com/my-site
-Instagram - @harshal.2002
 
 <!---
 harshalarya/harshalarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
